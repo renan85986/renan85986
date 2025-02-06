@@ -29,7 +29,7 @@
 
 - **Climate Monitoring System** 🌦️  
   A IoT system for real-time climate monitoring using APIs, MQTT, and InfluxDB.  
-  [View Repository](https://github.com/renanneves/climate-monitoring)
+  [View Repository](https://github.com/renan85986/Climate_monitoring_v2)
 
 ---
 
