@@ -1,4 +1,4 @@
-Renan Neves da Silva!
+## Renan Neves da Silva!
 
 Control and Automation Engineering student at UFMG  
 Passionate about IoT, embedded systems, and microelectronics  
