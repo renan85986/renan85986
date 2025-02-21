@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Renan Neves da Silva!
+Renan Neves da Silva!
 
-🎓 Control and Automation Engineering student at UFMG  
-⚡ Passionate about IoT, embedded systems, and microelectronics  
-🔭 Working with embedded systems development and calibration at Stellantis  
-🚀 Ongoing projects: Climate monitoring using APIs, MQTT, and time-series databases
+Control and Automation Engineering student at UFMG  
+Passionate about IoT, embedded systems, and microelectronics  
+Working with embedded systems development and calibration at Stellantis  
+Ongoing projects: Climate monitoring using APIs, MQTT, and time-series databases
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,grafana,git,linux,influxdb,verilog,mqtt" />
