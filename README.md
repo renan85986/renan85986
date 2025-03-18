@@ -1,7 +1,7 @@
 ## Renan Neves da Silva
 
 Control and Automation Engineering student at UFMG  
-Passionate about IoT, embedded systems, and microelectronics  
+Passionate about IoT, data science and data engineering  
 Working with embedded systems development and calibration at Stellantis  
 Ongoing projects: Climate monitoring using APIs, MQTT, and time-series databases
 
