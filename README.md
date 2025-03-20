@@ -1,9 +1,9 @@
 ## Renan Neves da Silva
 
-Control and Automation Engineering student at UFMG  
-Passionate about IoT, data science and data engineering  
-Ongoing projects: Climate monitoring using APIs, MQTT, and time-series databases
-                  Data analysis of a commercial dataset
+  Control and Automation Engineering student at UFMG  
+  Passionate about IoT, data science and data engineering  
+  Ongoing projects: Climate monitoring using APIs, MQTT, and time-series databases
+                    Data analysis of a commercial dataset
 ---
 
 ## 📊 GitHub Stats
