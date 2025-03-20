@@ -2,6 +2,7 @@
 
   Control and Automation Engineering student at UFMG  
   Passionate about IoT, data science and data engineering  
+  
 ---
 
 ## 📊 GitHub Stats
