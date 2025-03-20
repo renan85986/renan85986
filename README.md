@@ -2,17 +2,8 @@
 
 Control and Automation Engineering student at UFMG  
 Passionate about IoT, data science and data engineering  
-Working with embedded systems development and calibration at Stellantis  
 Ongoing projects: Climate monitoring using APIs, MQTT, and time-series databases
-
----
-
-## Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,grafana,git,linux,influxdb,verilog,mqtt" />
-</p>
-
+                  Data analysis of a commercial dataset
 ---
 
 ## 📊 GitHub Stats
